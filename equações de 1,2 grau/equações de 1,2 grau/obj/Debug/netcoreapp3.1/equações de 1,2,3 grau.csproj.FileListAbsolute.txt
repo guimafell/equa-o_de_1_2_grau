@@ -1,0 +1,13 @@
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\bin\Debug\netcoreapp3.1\equações de 1,2,3 grau.exe
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\bin\Debug\netcoreapp3.1\equações de 1,2,3 grau.deps.json
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\bin\Debug\netcoreapp3.1\equações de 1,2,3 grau.runtimeconfig.json
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\bin\Debug\netcoreapp3.1\equações de 1,2,3 grau.runtimeconfig.dev.json
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\bin\Debug\netcoreapp3.1\equações de 1,2,3 grau.dll
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\bin\Debug\netcoreapp3.1\equações de 1,2,3 grau.pdb
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.csprojAssemblyReference.cache
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.csproj.CoreCompileInputs.cache
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.AssemblyInfoInputs.cache
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.AssemblyInfo.cs
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.dll
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.pdb
+C:\Users\guima\source\repos\equações de 1,2,3 grau\equações de 1,2,3 grau\obj\Debug\netcoreapp3.1\equações de 1,2,3 grau.genruntimeconfig.cache

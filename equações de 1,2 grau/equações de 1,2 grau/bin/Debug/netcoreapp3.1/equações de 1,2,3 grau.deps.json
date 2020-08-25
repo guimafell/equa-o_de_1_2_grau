@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "equações de 1,2,3 grau/1.0.0": {
+        "runtime": {
+          "equações de 1,2,3 grau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "equações de 1,2,3 grau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
